@@ -2,7 +2,7 @@ Git is a distributed version control system.
 
 Git is free software distributed under the GPL.
 
-Git has a mutable index called stage.
+Git has mutable index called stage.
 
 dev
 
@@ -12,4 +12,4 @@ devdev to
 
 friendly
 
-111 a
+111 zhen dev
